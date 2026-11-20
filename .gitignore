@@ -5,5 +5,4 @@
 *.class
 *.pyc
 __pycache__/
-.vscode/
 workspace/
